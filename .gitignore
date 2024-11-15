@@ -1,0 +1,11 @@
+# python
+**/__pycache__
+
+# pyenv
+.python-version
+
+# data
+datarecce-todofec
+
+# MacOS
+**/.DS_Store
