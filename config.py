@@ -38,7 +38,7 @@ SUMMARY_FILES = [
     # Skip this one, the zip file too large (2.86 GB)
     # {
     #     "category": "contributions_by_individuals",
-    #     "year": 2034,
+    #     "year": 2024,
     #     "key" :"bulk-downloads/2024/indiv24.zip",
     # },
     {
